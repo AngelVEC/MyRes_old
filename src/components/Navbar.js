@@ -1,4 +1,4 @@
-import {Button, Container, Navbar, Modal} from 'react-bootstrap'
+import {Button, Navbar, Modal} from 'react-bootstrap'
 import { useContext, useState } from 'react';
 import { CartContext } from './Cart';
 import CartFoods from './CartFoods';
